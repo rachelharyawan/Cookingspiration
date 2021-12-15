@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cookingspiration</string>
+    <string name="textscreen">
+        Welcome to Cookingspiration.
+        \nHere you can find weekly meal
+        \ninspiration!
+    </string>
+</resources>
