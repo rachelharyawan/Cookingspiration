@@ -22,6 +22,7 @@
         android:id="@+id/welcometext"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textAlignment="center"
         android:fontFamily="@font/poppins_medium"
         android:text="@string/textscreen"
         android:textColor="@color/black"
