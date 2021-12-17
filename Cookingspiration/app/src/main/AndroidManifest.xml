@@ -12,37 +12,37 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Cookingspiration">
         <activity
-            android:name=".details.SundayActivity"
+            android:name=".details.SeventhCard"
             android:exported="true"
             android:parentActivityName=".MainActivity"/>
         <activity
-            android:name=".details.SaturdayActivity"
+            android:name=".details.SixthCard"
             android:exported="true"
             android:parentActivityName=".MainActivity"/>
         <activity
-            android:name=".details.FridayActivity"
+            android:name=".details.FifthCard"
             android:exported="true"
             android:parentActivityName=".MainActivity"/>
         <activity
-            android:name=".details.ThursdayActivity"
+            android:name=".details.FourthCard"
             android:exported="true"
             android:parentActivityName=".MainActivity"/>
         <activity
-            android:name=".details.WednesdayActivity"
+            android:name=".details.ThirdCard"
             android:exported="true"
             android:parentActivityName=".MainActivity"/>
         <activity
-            android:name=".details.TuesdayActivity"
+            android:name=".details.SecondCard"
             android:exported="true"
             android:parentActivityName=".MainActivity"/>
         <activity
-            android:name=".details.MondayActivity"
+            android:name=".details.FirstCard"
             android:exported="true"
             android:parentActivityName=".MainActivity"/>
         <activity
             android:name=".Splash"
             android:exported="true">
-            android:theme="@style/AppTheme.NoActionBar"
+            android:theme="@style/Theme.NoTitleBar"
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -51,7 +51,7 @@
         <activity
             android:name=".Startscreen"
             android:exported="true">
-            android:theme="@style/AppTheme.NoActionBar"
+            android:theme="@style/Theme.NoTitleBar"
         </activity>
         <activity
             android:name=".MainActivity"
