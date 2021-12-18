@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_semibold"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="24dp" />
+
+    <androidx.cardview.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/firstcard"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/primary_100"
+        android:layout_marginTop="24dp"
+        card_view:layout_constraintTop_toBottomOf="@+id/date"
+        card_view:cardCornerRadius="5dp">
+
+        <TextView
+            android:id="@+id/firstdate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp"
+            android:textSize="16sp"
+            android:fontFamily="@font/poppins_medium"/>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/secondcard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/primary_100"
+        android:layout_marginTop="12dp"
+        card_view:layout_constraintTop_toBottomOf="@+id/firstcard"
+        card_view:cardCornerRadius="5dp">
+
+        <TextView
+            android:id="@+id/seconddate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp"
+            android:textSize="16sp"
+            android:fontFamily="@font/poppins_medium"/>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/thirdcard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/primary_100"
+        android:layout_marginTop="12dp"
+        card_view:layout_constraintTop_toBottomOf="@+id/secondcard"
+        card_view:cardCornerRadius="5dp">
+
+        <TextView
+            android:id="@+id/thirddate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp"
+            android:textSize="16sp"
+            android:fontFamily="@font/poppins_medium"/>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/fourthcard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/primary_100"
+        android:layout_marginTop="12dp"
+        card_view:layout_constraintTop_toBottomOf="@+id/thirdcard"
+        card_view:cardCornerRadius="5dp">
+
+        <TextView
+            android:id="@+id/fourthdate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp"
+            android:textSize="16sp"
+            android:fontFamily="@font/poppins_medium"/>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/fifthcard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/primary_100"
+        android:layout_marginTop="12dp"
+        card_view:layout_constraintTop_toBottomOf="@+id/fourthcard"
+        card_view:cardCornerRadius="5dp">
+
+        <TextView
+            android:id="@+id/fifthdate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp"
+            android:textSize="16sp"
+            android:fontFamily="@font/poppins_medium"/>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/sixthcard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/primary_100"
+        android:layout_marginTop="12dp"
+        card_view:layout_constraintTop_toBottomOf="@+id/fifthcard"
+        card_view:cardCornerRadius="5dp">
+
+        <TextView
+            android:id="@+id/sixthdate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp"
+            android:textSize="16sp"
+            android:fontFamily="@font/poppins_medium"/>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/seventhcard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/primary_100"
+        android:layout_marginTop="12dp"
+        card_view:layout_constraintTop_toBottomOf="@+id/sixthcard"
+        card_view:cardCornerRadius="5dp">
+
+        <TextView
+            android:id="@+id/seventhdate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp"
+            android:textSize="16sp"
+            android:fontFamily="@font/poppins_medium"/>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
