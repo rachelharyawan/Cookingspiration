@@ -42,7 +42,7 @@
         <activity
             android:name=".Splash"
             android:exported="true">
-            android:theme="@style/Theme.NoTitleBar"
+            android:theme="@style/Theme.AppCompat.NoActionBar"
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -51,7 +51,7 @@
         <activity
             android:name=".Startscreen"
             android:exported="true">
-            android:theme="@style/Theme.NoTitleBar"
+            android:theme="@style/Theme.AppCompat.NoActionBar"
         </activity>
         <activity
             android:name=".MainActivity"

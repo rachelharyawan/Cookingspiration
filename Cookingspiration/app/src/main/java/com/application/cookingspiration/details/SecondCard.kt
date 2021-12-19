@@ -1,7 +1,10 @@
 package com.application.cookingspiration.details
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.Menu
+import android.view.MenuItem
 import android.widget.TextView
 import com.application.cookingspiration.R
 import com.application.cookingspiration.model.APIEndpoint
@@ -64,6 +67,12 @@ class SecondCard : AppCompatActivity() {
         getMeals()
     }
 
+    override fun onCreateOptionsMenu(menu : Menu?) : Boolean {
+        val inflater = menuInflater
+        inflater.inflate(R.menu.detail_menu, menu)
+        return true
+    }
+
     private fun getMeals() {
         val call: Call<GenerateMeals> = endpointAPI.getMeals()
 
@@ -89,5 +98,29 @@ class SecondCard : AppCompatActivity() {
                 namebreakfastTextView.text = t.toString()
             }
         })
+    }
+
+    override fun onOptionsItemSelected(item : MenuItem) : Boolean {
+        when (item.itemId) {
+            R.id.sharebutton -> {
+                val title = "Menu for " + seconddate.text.toString()
+                val description1 = "Menu for " + seconddate.text.toString() +
+                        "\n\n" + namebreakfastTextView.text.toString() + " " + sourcebreakfastTextView.text.toString() + " " +
+                        "\n" + namelunchTextView.text.toString() + " " + sourcelunchTextView.text.toString() + " " +
+                        "\n" + namedinnerTextView.text.toString() + " " + sourcedinnerTextView.text.toString() + " " +
+                        "\n\n" + "Calories: " + caloriesTextView.text.toString() + " " +
+                        "\n" + "Carbohydrates: " + carbohydratesTextView.text.toString() + " " +
+                        "\n" + "Fat: " + fatTextView.text.toString() + " " +
+                        "\n" + "Protein: " + proteinTextView.text.toString() + " "
+                val sendIntent = Intent()
+                sendIntent.action = Intent.ACTION_SEND
+                sendIntent.type = "text/plain"
+                sendIntent.putExtra(Intent.EXTRA_TITLE, title)
+                sendIntent.putExtra(Intent.EXTRA_TEXT, description1)
+                startActivity(Intent.createChooser(sendIntent, "Share this daily menu planner"))
+            }
+        }
+
+        return super.onOptionsItemSelected(item)
     }
 }

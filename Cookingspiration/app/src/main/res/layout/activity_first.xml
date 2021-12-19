@@ -57,15 +57,10 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Breakfast"
-                            android:textColor="@color/black"
-                            android:textSize="20sp"
+                            android:textColor="@color/primary_700"
+                            android:textSize="18sp"
                             android:textStyle="bold"
-                            android:fontFamily="@font/poppins_semibold"/>
-
-                        <ImageView
-                            android:id="@+id/imagebreakfast"
-                            android:layout_width="301dp"
-                            android:layout_height="150dp"/>
+                            android:fontFamily="@font/poppins"/>
 
                         <TextView
                             android:id="@+id/namebreakfast"
@@ -75,7 +70,7 @@
                             android:textAlignment="center"
                             android:textSize="20sp"
                             android:textStyle="bold"
-                            android:fontFamily="@font/poppins_medium"/>
+                            android:fontFamily="@font/poppins_semibold"/>
 
                         <TextView
                             android:id="@+id/sourcebreakfast"
@@ -115,15 +110,10 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Lunch"
-                            android:textColor="@color/black"
-                            android:textSize="20sp"
+                            android:textColor="@color/primary_700"
+                            android:textSize="18sp"
                             android:textStyle="bold"
-                            android:fontFamily="@font/poppins_semibold"/>
-
-                        <ImageView
-                            android:id="@+id/imagelunch"
-                            android:layout_width="301dp"
-                            android:layout_height="150dp"/>
+                            android:fontFamily="@font/poppins"/>
 
                         <TextView
                             android:id="@+id/namelunch"
@@ -133,7 +123,7 @@
                             android:textAlignment="center"
                             android:textSize="20sp"
                             android:textStyle="bold"
-                            android:fontFamily="@font/poppins_medium"/>
+                            android:fontFamily="@font/poppins_semibold"/>
 
                         <TextView
                             android:id="@+id/sourcelunch"
@@ -173,15 +163,11 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Dinner"
-                            android:textColor="@color/black"
-                            android:textSize="20sp"
+                            android:textColor="@color/primary_700"
+                            android:textSize="18sp"
                             android:textStyle="bold"
-                            android:fontFamily="@font/poppins_semibold"/>
+                            android:fontFamily="@font/poppins"/>
 
-                        <ImageView
-                            android:id="@+id/imagedinner"
-                            android:layout_width="301dp"
-                            android:layout_height="150dp"/>
 
                         <TextView
                             android:id="@+id/namedinner"
@@ -190,8 +176,9 @@
                             android:textColor="@color/black"
                             android:textSize="20sp"
                             android:textStyle="bold"
+                            android:text="test"
                             android:textAlignment="center"
-                            android:fontFamily="@font/poppins_medium"/>
+                            android:fontFamily="@font/poppins_semibold"/>
 
                         <TextView
                             android:id="@+id/sourcedinner"
@@ -206,11 +193,11 @@
             </LinearLayout>
 
             <LinearLayout
-            android:id="@+id/detailscontainer"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="24dp"
-            android:orientation="vertical">
+                android:id="@+id/detailscontainer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:orientation="vertical">
 
                 <LinearLayout
                     android:layout_width="match_parent"
