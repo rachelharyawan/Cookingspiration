@@ -6,6 +6,6 @@ import retrofit2.http.GET
 
 interface APIEndpoint {
 
-    @GET("mealplanner/generate?timeFrame=week&apiKey=3489fcd6d1e94e9ba4caab87078c4302")
+    @GET("mealplanner/generate?timeFrame=week&apiKey=3489fcd6d1e94e9ba4caab87078c4302&exclude=alcoholicbeverages")
     fun getMeals(): Call<GenerateMeals>
 }
