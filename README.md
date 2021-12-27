@@ -22,6 +22,7 @@ https://play.google.com/store/apps/details?id=com.application.cookingspiration
 https://github.com/rachelharyawan/Cookingspiration/tree/main/Cookingspiration
 
 ## Tester Profiles
+Users do share screen when they installed the app from Google Play Store. And they're using their own google account.
 
 ### 1. Annisa
 Age: 21st years old
