@@ -1,0 +1,503 @@
+﻿1
+00:00:06,000 --> 00:00:08,000
+RH: Selamat siang kak Annisa
+
+2
+00:00:08,001 --> 00:00:11,000
+RH: Sebelumnya saya ingin mengucapkan terima kasih
+
+3
+00:00:11,001 --> 00:00:16,900
+RH: karena sudah bersedia untuk menjadi responden dalam user research dan testing ini
+
+4
+00:00:17,001 --> 00:00:19,000
+RH: Jadi nama saya Rachel Haryawan.
+
+5
+00:00:19,001 --> 00:00:25,000
+RH: Saya dari Universitas Negeri Jakarta, program studi Ilmu Komputer angkatan 2018.
+
+6
+00:00:25,001 --> 00:00:30,000
+RH: User Research ini diadakan sebagai bagian dari tugas mata kuliah Mobile Computing.
+
+7
+00:00:30,001 --> 00:00:34,000
+RH: Jadi saya udah membuat aplikasi yang sudah di publish melalui Google Play Store.
+
+8
+00:00:34,001 --> 00:00:38,000
+RH: Lalu saya mengadakan user research dan testing ini untuk aplikasi tersebut.
+
+9
+00:00:39,000 --> 00:00:42,000
+RH: Langsung kita mulai aja ya, kak.
+
+10
+00:00:42,500 --> 00:00:44,000
+AN: Oke kak
+
+11
+00:00:44,001 --> 00:00:53,000
+RH: Sebelumnya boleh gak, kak Nisa memperkenalkan diri dulu? Dimulai dari nama, pekerjaan, usia, dan domisili.
+
+12
+00:00:53,001 --> 00:01:05,000
+AN: Nama saya Annisa. Saya mahasiswa. Umur saya 21 tahun.
+
+13
+00:01:08,000 --> 00:01:10,500
+RH: Terus, domisilinya dimana kak?
+
+14
+00:01:11,000 --> 00:01:12,500
+AN: Kenapa?
+
+15
+00:01:12,501 --> 00:01:14,000
+RH: Domisilinya dimana?
+
+16
+00:01:14,500 --> 00:01:17,000
+AN: Saya di Bekasi.
+
+17
+00:01:17,501 --> 00:01:24,900
+RH: Oke. Langsung aja ya kak kita mulai wawancaranya.
+
+18
+00:01:25,000 --> 00:01:26,000
+AN: Oke
+
+19
+00:01:27,000 --> 00:01:33,000
+RH: Apakah kak Annisa suka memasak? Terus kalau misalnya suka kenapa, kalau enggak juga kenapa?
+
+20
+00:01:34,000 --> 00:01:45,000
+AN: Sebenarnya saya lebih suka membuat kue daripada memasak yang, masakan ya- yang biasa dimakan itu
+
+21
+00:01:45,001 --> 00:01:49,900
+RH: Iya. Kenapa tuh kak?
+
+22
+00:01:50,000 --> 00:01:58,500
+AN: Karena lebih seru aja gitu, kaya gatau ya ada- kalo masak itu lebih-
+
+23
+00:01:59,000 --> 00:02:05,500
+AN: presentase buat berhasilnya lebih gede gitu jadi kalau buat kue kan kadang lebih sering gagal, jadi kalau pas berhasil tuh kaya
+
+24
+00:02:05,501 --> 00:02:08,500
+AN: wah hebat gitu.
+
+25
+00:02:09,000 --> 00:02:14,000
+RH: Oke. Sebentar ya, dicatat dulu.
+
+26
+00:02:18,000 --> 00:02:26,000
+RH: Terus kalau misalnya kakak masak nih, apakah kadang kakak bingung buat cari inspirasi menu buat dimasak?
+
+27
+00:02:27,000 --> 00:02:34,500
+AN: Iya, kadang bingung. Saya sendiri juga kadang bingung mau makan apa jadi mau masak pun bingung.
+
+28
+00:02:36,501 --> 00:02:42,000
+RH: Terus saat kakak kebingungan buat mencari inspirasi menu tersebut, apa yang kakak lakukan?
+
+29
+00:02:44:,000 --> 00:02:59,000
+AN: Biasanya saya lihat di instagram dulu atau twitter misal kalau ada yang lewat masakan enak gitu baru saya cari resepnya di web atau di youtube.
+
+30
+00:03:01,000 --> 00:03:06,000
+RH: Oke, terus biasanya masakan apa yang kakak sukai? Trus kenapa?
+
+31
+00:03:07,000 --> 00:03:18,000
+AN: Hmm. Saya sih bisa makan apa aja ya. Biasanya saya sukanya yang simple - simple gitu karena kalau masak gak susah.
+
+32
+00:03:18,001 --> 00:03:31,500
+AN: Tapi kalau saya dibikinin orang ya, ya mau - mau aja gitu yang- apa aja mau masakan Indonesia, mau masakan Barat, masakan Korea saya terima.
+
+33
+00:03:32,500 --> 00:03:38,500
+RH: Selanjutnya apakah kakak suka makanan western atau suka masak makanan western?
+
+34
+00:03:40,000 --> 00:03:49,000
+AN: Hmm, suka, saya suka makanan western. Tapi saya lebih suka makan-nya aja, kalau bikinnya waduh pusing saya.
+
+35
+00:03:49,500 --> 00:03:55,000
+RH: Selanjutnya apakah kakak pernah mencari resep masakan sebelumnya? Dan dimana?
+
+36
+00:03:56,500 --> 00:04:09,000
+AN: Pernah, sering malah. Hmm, di google biasanya saya nyarinya. Tapi kalau misalnya agak rumit baru saya di youtube karena kan ada cara pembuatannya ditunjukkin gitu.
+
+37
+00:04:11,000 --> 00:04:16,000
+RH: Selanjutnya apa kekurangan dan kelebihan platform tersebut?
+
+38
+00:04:17,001 --> 00:04:34,000
+AN: Hmm, kalau di google tuh kadang kaya resepnya aja gituloh jadi saya kan harus melihat cara masaknya gitu baru-
+
+39
+00:04:36,000 --> 00:04:41,000
+AN: Tapi kalau yang gampang - gampang sih bisa - bisa aja.
+
+40
+00:04:44,500 --> 00:04:46,000
+RH: Kalau kelebihannya kak?
+
+41
+00:04:49,000 --> 00:05:00,000
+AN: Kelebihannya lebih bervariasi gitu dan gak ngabisin kuota ya kalau misalnya di web gitu.
+
+42
+00:05:03,001 --> 00:05:12,000
+RH: Oke, selanjutnya apakah kakak suka memperhatikan nutrisi kalori, karbohidrat, lemak dan protein dalam makanan kakak? Terus kenapa?
+
+43
+00:05:13,000 --> 00:05:28,000
+AN: Hmm, enggak sih soalnya yaa kalau diperhatiin tuh malah makannya jadi terbatas gak sih? 
+
+44
+00:05:28,001 --> 00:05:35,500
+AN: Menurut saya kaya gitu, cuma ya kalau mau hidup sehat sih emang harus diperhatiin, cuma sekarang enggak dulu.
+
+45
+00:05:36,500 --> 00:05:46,000
+RH: Oke. Terus selanjutnya menurut kakak seberapa penting untuk mencantumkan informasi nutrisi seperti kalori, karbohidrat
+
+46
+00:05:46,001 --> 00:05:50,500
+RH: lemak dan protein dalam informasi sebuah menu?
+
+47
+00:05:52,201 --> 00:06:02,000
+AN: Penting banget, itu penting. Apalagi kalau yang program yang misalnya menaikkan berat badan atau menurunkan berat badan itu kan butuh banget ya kalorinya berapa - berapa gitu.
+
+48
+00:06:02,500 --> 00:06:15,000
+AN: Jadi yaa penting banget. Cuma kalo untuk saya saat ini sih saya belum ada niatan kaya diet - diet gitu jadi belum lah ntar aja mungkin saya perhatiin kaya kalori - kalorinya.
+
+49
+00:06:15,500 --> 00:06:29,500
+RH: Oke. Oke sekian kak, untuk wawancaranya udah selesai. Makasih banyak udah jawab - jawab. Selanjutnya kita langsung masuk ke testing aja ya kak?
+
+50
+00:06:30,500 --> 00:06:31,000
+AN: Oke
+
+51
+00:06:32,000 --> 00:06:36,000
+RH: Sebelumnya saya mau jelasin dulu tentang aplikasi yang saya buat.
+
+52
+00:06:37,200 --> 00:06:37,500
+AN: Iya.
+
+53
+00:06:39,000 --> 00:06:47,200
+RH: Jadi Cookingspiration ini adalah sebuah aplikasi yang dibuat untuk memenuhi final project mata kuliah Mobile Computing saya pada semester ini.
+
+54
+00:06:47,201 --> 00:06:57,500
+RH: Aplikasi ini adalah aplikasi yang meng-generate menu masakan beserta link resep dan informasi kalori, karbohidrat, lemak, dan proteinnya.
+
+55
+00:06:57,501 --> 00:07:03,500
+RH: Aplikasi ini ditujukan untuk orang yang suka memasak atau orang yang ingin mencari inspirasi memasak.
+
+56
+00:07:04,500 --> 00:07:13,000
+RH: Selain itu juga user dapat membagikan informasi menu tersebut kepada orang lain atau dapat dibagikan ke notes untuk disimpan.
+
+57
+00:07:13,001 --> 00:07:17,000
+RH: Jadi kalau misalnya mereka pengen bikin tapi nanti, bisa disimpan dulu ke notes.
+
+58
+00:07:18,000 --> 00:07:26,000
+RH: Nah terus selanjutnya, saya boleh meminta kakak untuk download aplikasi ini gak, dan nanti di share screen juga?
+
+59
+00:07:26,700 --> 00:07:27,500
+AN: Boleh. 
+
+60
+00:07:28,200 --> 00:07:32,000
+RH: Oke. Boleh di share screen sekarang kak.
+
+61
+00:07:33,200 --> 00:07:36,000
+AN: Oke. Ini download ya?
+
+62
+00:07:36,500 --> 00:07:43,500
+RH: Bisa, bisa. Bisa di download sekarang di playstore. Sesuai namanya tadi, "Cookingspiration".
+
+63
+00:07:55,500 --> 00:07:56,000
+AN: Saya install ya.
+
+64
+00:07:56,500 --> 00:07:57,500
+RH: Iya, boleh, boleh.
+
+65
+00:08:00,000 --> 00:08:18,000
+[Kak AN instal aplikasinya]
+
+66
+00:08:19,500 --> 00:08:24,000
+RH: Setelah itu boleh langsung dicobain aja kak, dilihat - lihat dulu aplikasinya.
+
+67
+00:08:31,000 --> 00:08:32,500
+AN: Ini saya lihat - lihat ya
+
+68
+00:08:33,000 --> 00:08:36,000
+RH: Iya. Boleh dicobain aja.
+
+68
+00:08:38,000 --> 00:08:40,000
+AN: Hmm, mana ya?
+
+69
+00:08:55,500 --> 00:08:57,000
+AN: Jadi laper.
+
+70
+00:09:12,700 --> 00:09:15,500
+AN: Infonya lengkap ya sampai ke harga.
+
+71
+00:09:15,501 --> 00:09:19,500
+RH: Iya, itu sesuai dengan link yang diberikan oleh API-nya kak.
+
+72
+00:10:43,500 --> 00:10:45,500
+AN: Menunya menarik - menarik, ya.
+
+73
+00:10:46,000 --> 00:10:53,500
+RH: Iya, itu ada resep kue-kue-annya juga kak. Tadi kan katanya suka bikin kue, ya?
+
+74
+00:10:53,700 --> 00:10:54,501
+AN: Iya.
+
+75
+00:11:17,500 --> 00:11:20,000
+AN: Ini enak nih kayanya. Kayanya.
+
+76
+00:11:22,500 --> 00:11:25,000
+RH: Ntar boleh dicoba kak
+
+77
+00:11:29,700 --> 00:11:32,000
+AN: wah, macaroon.
+
+78
+00:11:35,500 --> 00:11:39,000
+RH: Mohon maaf tadi sedikit freeze, jadi saya sempet keluar.
+
+79
+00:11:40,500 --> 00:11:41,500
+AN: Jaringannya ya kak?
+
+80
+00:11:41,701 --> 00:11:42,000
+RH: Iya.
+
+81
+00:11:44,000 --> 00:11:45,500
+AN: Gapapa kak, maklum.
+
+82
+00:11:53,000 --> 00:11:58,500
+RH: Lalu kita juga ada fitur share kak selain fitur informasi menunya.
+
+83
+00:12:01,000 --> 00:12:03,000
+AN: Hmm, coba saya share, ya.
+
+84
+00:12:20,500 --> 00:12:24,000
+AN: Wah, bisa disimpan ya ini, enak.
+
+85
+00:12:24,500 --> 00:12:30,000
+RH: Iya, jadi bisa di save dulu ke notes kalau misalnya pengen masaknya nanti gitu.
+
+86
+00:12:43,500 --> 00:12:52,500
+RH: Untuk sementara, fiturnya baru itu aja sih kak. Menurut kakak, kakak tadi ada kesulitan atau kendala gak saat nyoba aplikasinya?
+
+87
+00:12:54,000 --> 00:13:04,000
+AN: Hmm, waktu awal - awal sempet gak bisa, ya. Gatau ini karena hp saya aja atau gimana.
+
+88
+00:13:08,000 --> 00:13:13,200
+AN: HP saya aja atau gimana kaya susah download gitu, soalnya saya co- kayanya sih HP saya ya.
+
+89
+00:13:13,201 --> 00:13:16,500
+AN: Soalnya di download di saudara saya tuh bisa.
+
+90
+00:13:16,501 --> 00:13:26,500
+RH: Ohh. Terus apakah informasi yang diberikan sudah sesuai di aplikasi ini?
+
+91
+00:13:28,000 --> 00:13:33,500
+AN: Sesuai, kok. Ini, anu ya, apa, western food ya?
+
+92
+00:13:34,500 --> 00:13:36,500
+RH: Iyaa, kebanyakan western food gitu.
+
+93
+00:13:42,000 --> 00:13:43,500
+AN: Menunya kelihatan enak - enak deh.
+
+94
+00:13:46,500 --> 00:13:50,000
+RH: Kalau misalnya suka bikin - bikin, boleh kak dicobain ntar.
+
+95
+00:13:51,500 --> 00:13:54,000
+AN: Iya kapan - kapan saya cobain deh bikin.
+
+96
+00:13:55,000 --> 00:14:04,000
+RH: Hmm, terus selanjutnya menurut kakak nih dari tata letak setiap komponennya gimana nih? Udah pas atau masih ada yang kurang?
+
+97
+00:14:06,000 --> 00:14:16,000
+AN: Hmm, udah pas kok. Ini, apa, gampang gitu digunainnya. Trus infonya lebih, apa ya, terlihat jelas gitu.
+
+98
+00:14:18,500 --> 00:14:25,000
+RH: Oke. Hmm, trus apakah ada yang pengen ditanyain kak terkait aplikasi ini?
+
+99
+00:14:26,500 --> 00:14:37,000
+AN: Hmm, kakak bikin aplikasi ini tuh ide dari mana gitu? Kenapa milih buat bikin aplikasi Cookingspiration ini?
+
+100
+00:14:38,500 --> 00:14:43,900
+RH: Hmm, sebenernya kalau misalnya buat ide sendiri tuh karena pengalaman sendiri sih.
+
+101
+00:14:44,000 --> 00:14:47,500
+RH: Jadi kan kadang tuh suka bingung ya kalau misalnya mau masak, mau masak apa. 
+
+102
+00:14:47,501 --> 00:14:54,000
+RH: Trus kalau misalnya lagi kepengen makan sesuatu trus pengen masak bingung gitu mau masak apa ya. 
+
+103
+00:14:54,001 --> 00:15:02,500
+RH: Nah jadinya saya bikin aplikasi ini tuh buat yang suka susah gitu nyari inspirasi buat masak, jadi kan ini disediain gitu setiap hari
+
+104
+00:15:02,501 --> 00:15:10,000
+RH: bisa generate menunya. Jadi yang suka masak trus yang suka kebingungan masak tuh bisa nyari inspirasi di aplikasi ini gitu.
+
+105
+00:15:11,001 --> 00:15:17,000
+AN: Oh, trus kok terbesit ngasih kaya kalori gitu - gitu, infonya itu?
+
+106
+00:15:18,501 --> 00:15:25,000
+RH: Hmm karena kan ada orang yang suka kesulitan gitu gak sih ngontrol kalori? Padahal mereka pengen mungkin ya.
+
+107
+00:15:25,001 --> 00:15:32,000
+RH: Makanya saya ngasih informasi kalori tuh biar tau gitu, jadi 3 menu ini tuh kalorinya berapa.
+
+108
+00:15:33,001 --> 00:15:35,500
+AN: Iyaa kalau ngitung sendiri sih susah ya.
+
+109
+00:15:35,501 --> 00:15:40,000
+RH: Iyaa, karena kan suka bingung gak sih, kalau orang mau ngetrack kalori tuh.
+
+110
+00:15:41,500 --> 00:15:44,000
+AN: Enak kaya gini sih, lebih praktis gitu.
+
+111
+00:15:44,501 --> 00:15:54,500
+RH: Iya gitu kak. Oke, hmm, sekian, makasih ya kak udah mau nyobain dan install aplikasi ini.
+
+112
+00:15:55,000 --> 00:16:08,000
+RH: Trus kalau misalnya kakak disuruh nilai nih dari segi kemudahan menggunakan aplikasi ini trus dari, pokoknya nilai aplikasi ini deh.
+
+113
+00:16:08,001 --> 00:16:12,000
+RH: Kira - kira kakak bakalan ngasih nilai berapa dari skala 1 - 7?
+
+114
+00:16:13,500 --> 00:16:19,000
+AN: Hmm, enam mungkin.
+
+115
+00:16:19,500 --> 00:16:31,500
+RH: Enam? Oke. Trus kira - kira apa nih kak feedback dari kakak atau maksudnya yang bisa kita ubah atau kita tambahkan biar nilai aplikasi ini jadi 7?
+
+116
+00:16:33,500 --> 00:16:38,000
+AN: Mungkin gambar ya, gambar di ininya gitu.
+
+117
+00:16:40,000 --> 00:16:42,000
+RH: Gambar menunya gitu ya kak?
+
+118
+00:16:42,500 --> 00:16:43,000
+AN: Iya.
+
+119
+00:16:44,500 --> 00:16:45,500
+RH: Trus apalagi kak?
+
+120
+00:16:47,000 --> 00:16:52,500
+AN: Udah itu aja. Aplikasinya udah itu kok, udah apa, mudah digunakan.
+
+121
+00:16:53,500 --> 00:16:59,500
+RH: Hmm, sekian kak untuk testing aplikasi ini dan wawancaranya juga tadi sudah.
+
+122
+00:17:00,000 --> 00:17:10,000
+RH: Hmm, sekali lagi saya ingin menyampaikan terima kasih lagi karena udah bersedia menjadi responden, udah bersedia nyobain aplikasi ini juga.
+
+123
+00:17:11,501 --> 00:17:12,000
+AN: Iya.
+
+124
+00:17:13,001 --> 00:17:17,000
+RH: Iya sekian agenda kita hari ini. Selamat sore.
+
+125
+00:17:18,500 --> 00:17:20,000
+AN: Selamat sore
