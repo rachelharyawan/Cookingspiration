@@ -1,0 +1,527 @@
+﻿1
+00:00:09,000 --> 00:00:10,000
+RH: Selamat siang, kak Febri
+
+2
+00:00:11,000 --> 00:00:12,000
+FB: Ya siang
+
+3
+00:00:12,000 --> 00:00:19,000
+RH: Sebelumnya saya ingin mengucapkan terima kasih karena bersedia menjadi responden dalam user research dan testing ini
+
+4
+00:00:20,000 --> 00:00:21,000
+FB: Iya
+
+5
+00:00:22,000 --> 00:00:28,000
+RH: Nama saya Rachel Haryawan dari Universitas Negeri Jakarta Program Studi Ilmu Komputer angkatan 2018
+
+6
+00:00:29,000 --> 00:00:33,000
+RH: User research ini diadakan sebagai bagian dari tugas mata kuliah Mobile Computing saya
+
+7
+00:00:33,000 --> 00:00:38,000
+RH: Jadi saya sudah membuat aplikasi yang sudah dipublish melalui Google Playstore
+
+8
+00:00:38,000 --> 00:00:42,000
+RH: Lalu saya mengadakan user research dan testing ini untuk aplikasi tersebut
+
+9
+00:00:43,000 --> 00:00:46,000
+RH: Oke langsung kita mulai aja ya kak
+
+10
+00:00:47,000 --> 00:00:47,000
+FB: Oke
+
+11
+00:00:47,000 --> 00:00:54,000
+RH: Sebelumnya boleh kak Febri memperkenalkan diri dulu dimulai dari nama, pekerjaan, usia, dan domisili
+
+12
+00:00:56,000 --> 00:00:59,000
+FB: Ya nama saya Rani Febriyani Sudirja
+
+13
+00:00:59,000 --> 00:01:05,000
+FB: Usia saya sekarang 30 tahun.Pekerjaan saya saat ini karyawan swasta
+
+14
+00:01:07,000 --> 00:01:10,000
+FB: Dan saya bertempat tinggal di daerah Jakarta Pusat
+
+15
+00:01:12,000 --> 00:01:15,000
+RH: Oke langsung kita mulai aja ya kak wawancaranya
+
+16
+00:01:17,000 --> 00:01:17,000
+FB: Oke
+
+17
+00:01:17,000 --> 00:01:22,000
+RH: Pertanyaan pertama, apakah kakak suka memasak? Terus kalau misalnya suka, kenapa?
+
+18
+00:01:23,000 --> 00:01:34,000
+FB: Lumayan suka memasak karena biasanya kan dengan masak tuh bisa membuat makanan - makanan enak kayak gitu. 
+
+19
+00:01:35,000 --> 00:01:39,000
+FB: Karena suka makan sih, karena suka makan, hobi makan jadinya suka masak juga
+
+20
+00:01:40,000 --> 00:01:46,000
+RH: Oke, apakah kakak terkadang bingung untuk mencari inspirasi menu buat dimasak?
+
+21
+00:01:48,000 --> 00:01:56,000
+FB:  Terkadang sih suka bingung karena kalau kita masak setiap hari itu kan biasanya kita taunya misal menunya ABCD aja
+
+22
+00:01:57,000 --> 00:02:02,000
+FB: Terus masa harus mengulang lagi dengan menu yang sama di minggu berikutnya itu kan suka bingung tuh
+
+23
+00:02:03,000 --> 00:02:08,000
+FB: Biasanya sih kadang - kadang ya suka bingung juga cari inspirasi mau masak apa , kayak gitu - gitu
+
+24
+00:02:09,000 --> 00:02:15,000
+RH: Oke. Saat kakak kebingungan buat mencari inspirasi menu tersebut, apa yang biasanya kakak lakukan?
+
+25
+00:02:16,000 --> 00:02:22,000
+FB: Biasanya bisa cari rekomendasi di Google, Youtube, atau Instagram sih
+
+26
+00:02:24,000 --> 00:02:24,000
+RH: Oke
+
+27
+00:02:26,000 --> 00:02:29,000
+RH: Biasanya masakan apa yang kakak sukai dan kenapa?
+
+28
+00:02:32,000 --> 00:02:41,000
+FB: Yang simple sih. Yang simple aja. Biasanya kalau yang simple kayak masakan - masakan western itu kan simple ya
+
+29
+00:02:42,000 --> 00:02:52,000
+FB: Karena gak memakan waktu banyak sih dan membuatnya jauh lebih mudah ketimbang masakan Indonesia, biasanya kan dia banyak banget bumbu rempah - rempah kayak gitu - gitu jadi kayak
+
+30
+00:02:54,000 --> 00:02:59,000
+FB: Iya lebih rumit sih karena masih belajar juga masak jadi cari yang lebih simple - simple aja
+
+31
+00:03:00,000 --> 00:03:05,000
+RH: Berarti kakak suka makanan western gitu? Atau suka masak makanan western?
+
+32
+00:03:07,000 --> 00:03:12,000
+FB: Suka makannya.Kalau masak ya sesekali masak juga itu gitu
+
+33
+00:03:15,000 --> 00:03:20,000
+RH: Terus apakah kaka pernah mencari resep sebelumnya? Dan di platform mana tuh?
+
+34
+00:03:22,000 --> 00:03:25,000
+FB: Suka, pernah. Ya kadang di Youtube
+
+35
+00:03:26,000 --> 00:03:34,000
+FB: Suka cari inspirasi masak mau masak ini, apa nih, resep apa, resepnya seperti apa. Atau kadang di Google, atau kadang ya itu di Instagram
+
+36
+00:03:36,000 --> 00:03:40,000
+RH: Terus apa kekurangan dan kelebihan platform yang digunakan tersebut?
+
+37
+00:03:42,000 --> 00:03:45,000
+FB: Kalau Google ya, Google itu biasanya
+
+38
+00:03:47,000 --> 00:03:48,000
+FB: Banyak iklannya
+
+39
+00:03:49,000 --> 00:03:56,000
+FB: Banyak iklannya sih. Kalau Youtube oke sih cuma kadang videonya kan suka lama ya
+
+40
+00:03:57,000 --> 00:04:01,000
+FB: Atau kadang ada yang lama, ada yang terlalu cepet jadi kita juga suka
+
+41
+00:04:02,000 --> 00:04:04,000
+FB: kita skip - skip dulu atau kita ulang berkali - kali gitu
+
+42
+00:04:05,000 --> 00:04:14,000
+FB: Untuk saat ini sih mungkin yang lebih, kalau Instagram biasanya dia udah cukup oke, biasanya di description ditulis tuh resepnya apa - apa aja
+
+43
+00:04:14,000 --> 00:04:21,000
+FB: Cuma kekurangannya dia kadang cara masaknya nih gak ada videonya kan karena di Instagram terbatas tuh videonya
+
+44
+00:04:22,000 --> 00:04:24,000
+FB: Beberapa ada yang ada, beberapa ada yang enggak. Tapi
+
+45
+00:04:27,000 --> 00:04:28,000
+FB: Cukup dimengerti sih
+
+46
+00:04:30,000 --> 00:04:38,000
+RH: Oke. Terus apakah kakak suka memperhatikan nutrisi, kalori, karbohidrat, lemak, dan protein dalam makanan kakak? Terus kenapa?
+
+47
+00:04:40,000 --> 00:04:42,000
+FB: Sejujurnya enggak sih
+
+48
+00:04:43,000 --> 00:04:47,000
+FB: Sejujurnya gak terlalu memperhatikan kayak kalori kayak gitu - gitu
+
+49
+00:04:48,000 --> 00:05:50,000
+FB: Karena mungkin basicnya
+
+50
+00:04:52,000 --> 00:05:06,000
+FB: Kakak tidak ada pantangan makan apapun ya jadi kayak selama makanan itu menurut kakak oke lah, sehat dalam arti ya ada sayurannya, enggak dari bahan yang aneh - aneh, ya kakak it's ok aja sih buat masaknya
+
+51
+00:05:08,000 --> 00:05:18,000
+RH: Terus, tapi walaupun kakak gak memperhatikan tuh menurut kakak seberapa penting untuk mencantumkan informasi nutrisi tersebut dalam informasi sebuah menu?
+
+52
+00:05:19,000 --> 00:05:20,000
+FB: Penting sih
+
+53
+00:05:21,000 --> 00:05:39,000
+FB: Untuk saat ini apalagi kan sekarang ini kita kondisinya lagi kayak covid kayak gini penting karena banyak orang yang akhirnya diam di rumah aja, akhirnya jaga makan mereka, jaga badan mereka karena kan mereka kan gak bisa ke luar untuk olahraga untuk segala macam, jadi mereka ngimbanginnya dengan pola makan mereka
+
+54
+00:05:40,000 --> 00:05:42,000
+FB: Untuk saat ini sih, penting sih
+
+55
+00:05:44,000 --> 00:05:44,000
+RH: Oke
+
+56
+00:05:58,000 --> 00:05:53,000
+RH: Sekian kak untuk wawancaranya. Makasih udah jawab pertanyaan - pertanyaan tadi
+
+57
+00:05:54,000 --> 00:05:54,000
+FB: Iya sama - sama
+
+58
+00:05:54,000 --> 00:05:59,000
+RH: Terus selanjutnya kita langsung masuk ke testing aplikasinya aja ya kak
+
+59
+00:06:00,000 --> 00:06:00,000
+FB: Oke
+
+60
+00:06:01,000 --> 00:06:05,000
+RH: Pertama saya mau jelasin dulu tentang aplikasi cookingspiration ini
+
+61
+00:06:06,000 --> 00:06:06,000
+FB: Oke - oke
+
+62
+00:06:10,000 --> 00:06:17,000
+RH: Jadi cookingspiration ini adalah sebuah aplikasi yang dibuat untuk memenuhi final project mata kuliah Mobile Computing saya pada semester ini.
+
+63
+00:06:18,000 --> 00:06:25,000
+RH: Aplikasi ini adalah aplikasi yang mengenerate menu masakan beserta link resep dan informasi kalori, karbohidrat, lemak, dan proteinnya
+
+64
+00:06:26,000 --> 00:06:31,000
+RH: Aplikasi ini ditujukan untuk orang yang suka memasak atau orang yang ingin mencari inspirasi memasak
+
+65
+00:06:31,000 --> 00:06:38,000
+RH: Selain itu user juga dapat membagikan informasi menu tersebut kepada orang lain atau dibagikan ke notes buat disimpan
+
+66
+00:06:46,000 --> 00:06:54,000
+RH: Selanjutnya saya boleh minta tolong gak kak untuk share screen dan nanti download aplikasi cookingspirationnya di play store lalu dicobain
+
+67
+00:06:56,000 --> 00:06:57,000
+FB: Oke
+
+68
+00:07:24,000 --> 00:07:27,000
+RH: Kalau udah diinstall bisa dicoba aja aplikasinya kak
+
+69
+00:07:50,000 --> 00:07:55,000
+FB: Untuk menunya sendiri ini dia akan berubah setiap minggunya atau?
+
+70
+00:07:57,000 --> 00:08:00,000
+RH: Iya jadi itu kan pakai API yang generate gitu
+
+71
+00:08:01,000 --> 00:08:03,000
+RH: Jadi nanti bisa berubah - ubah gitu
+
+72
+00:08:05,000 --> 00:08:10,000
+FB: Oke. Berarti tanggal yang ada di sini dia akan otomatis?
+
+73
+00:08:11,000 --> 00:08:17,000
+RH: Iya jadi tanggal pertama itu tuh tanggal hari ini. Misalnya besok bukanya, tanggal pertamanya bakalan jadi besok
+
+74
+00:08:00,000 --> 00:08:24,000
+FB: Oh berarti tergantung kapan kakak download ya?
+
+75
+00:08:25,000 --> 00:08:27,000
+RH: Tergantung kapan dibuka
+
+76
+00:08:27,000 --> 00:08:31,000
+RH: Misalnya kakak buka aplikasinya besok, hari pertamanya besok gitu
+
+77
+00:08:31,000 --> 00:08:33,000
+FB: Oh oke
+
+78
+00:08:35,000 --> 00:08:45,000
+FB: Ini bisa share menunya ini langsung kakak ngeshare ini, ini semuanya dari breakfast sampai dinner langsung keshare atau?
+
+79
+00:08:46,000 --> 00:08:48,000
+RH: Iya semuanya sampai informasi kalorinya juga
+
+80
+00:08:49,000 --> 00:08:51,000
+RH: Bisa dicoba aja mungkin ke notes
+
+81
+00:08:54,000 --> 00:08:55,000
+FB: Oke
+
+82
+00:09:06,000 --> 00:09:09,000
+FB: Oh gitu. Oke, oke, oke
+
+83
+00:09:16,000 --> 00:09:17,000
+FB: Berarti setiap hari menunya berbeda - beda kan?
+
+84
+00:09:18,000 --> 00:09:20,000
+RH: Iya beda - beda
+
+85
+00:10:37,000 --> 00:10:38,000
+FB: Oke oke
+
+86
+00:10:42,000 --> 00:10:45,000
+RH: Apakah ada kesulitan atau kendala kak saat mencoba aplikasinya?
+
+87
+00:10:47,000 --> 00:10:56,000
+FB: Tidak ada sih. Ini udah cukup oke cuma emang mungkin sinyal kakak aja yang lagi kurang stabil tapi semuanya udah oke kok
+
+88
+00:10:58,000 --> 00:11:02,000
+FB: Di sini kan ada linknya, kita bisa lihat menunya beserta kalorinya
+
+89
+00:11:04,000 --> 00:11:07,000
+FB: Kita juga bisa share ke temen - temen kita mungkin
+
+90
+00:11:09,000 --> 00:11:12,000
+RH: Apakah informasinya yang diberikan udah sesuai?
+
+91
+00:11:15,000 --> 00:11:16,000
+FB: Sudah
+
+92
+00:11:19,000 --> 00:11:21,000
+FB: Sudah, sudah cukup sesuai ini
+
+93
+00:11:22,000 --> 00:11:24,000
+FB: Udah jelas juga di sini
+
+94
+00:11:24,000 --> 00:11:27,000
+RH: Gimana dengan tata letak setiap komponennya?
+
+95
+00:11:28,000 --> 00:11:31,000
+RH: Maksudnya udah pas atau ada yang harus diubah?
+
+96
+00:11:33,000 --> 00:11:42.000
+FB: Tata letak udah sih cuma mungkin uhmm di linknya aja kali ya
+
+97
+00:11:44,000 --> 00:11:47,000
+FB: Linknya mungkin bisa dibuat
+
+98
+00:11:49,000 --> 00:11:51,000
+FB: Agak ke pinggir gitu
+
+99
+00:11:51,000 --> 00:12:02,000
+FB: Kalau ini kan maksudnya naruhnya di tengah kan jadi kalau kita agak ke pinggir mungkin kalau next ke depannya kamu mau tambahin beberapa menu di bawahnya bisa lebih rapi aja sih
+
+100
+00:12:06,000 --> 00:12:10,000
+RH: Apakah ada yang ingin ditanyakan terkait dengan aplikasi?
+
+101
+00:12:11,000 --> 00:12:15,000
+FB: Iya. Di sini kan kalau dilihat kan belom ada 
+
+102
+00:12:17,000 --> 00:12:20,000
+FB: Belum ada fitur untuk menambahkan menu masakan ya?
+
+103
+00:12:20,000 --> 00:12:21,000
+RH: Iya belum
+
+104
+00:12:22,000 --> 00:12:26,000
+RH: Baru menyediakan rencana planner aja untuk seminggu gitu
+
+105
+00:12:29,000 --> 00:12:50,000
+FB: Mungkin ke depannya bisa menambahkan menu masakan di setiap harinya untuk saya misalnya download aplikasi ini saya juga bisa menambahkan menu - menu masakan yang saya punya atau mungkin saya dapet dari mana jadi biar orang bisa lihat gitu
+
+106
+00:12:51,000 --> 00:12:54,000
+FB: Variasi menu yang lain gitu, gak hanya disediakan di aplikasi ini
+
+107
+00:12:55,000 --> 00:12:56,000
+RH: Oke - oke kak
+
+108
+00:12:58,000 --> 00:13:00,000
+RH: Terima kasih untuk masukannya ya kak
+
+109
+00:13:04,000 --> 00:13:05,000
+FB: Boleh menambahkan gak sih?
+
+110
+00:13:06,000 --> 00:13:07,000
+RH: Oh iya boleh - boleh kak
+
+111
+00:13:10,000 --> 00:13:19,000
+FB: Mungkin di aplikasi ini boleh ditambahkan kayak untuk aplikasi memo gitu untuk pengguna
+
+112
+00:13:20,000 --> 00:13:38,000
+FB: Untuk pengguna, misal saya menggunakan aplikasi ini terus ada menu memo dan di situ saya bisa mengatur sendiri hari ini saya mau memasak apa sih gitu, besok mau masak apa gitu dan menu itu bisa dilihat sama orang lain menjadi inspirasi juga gitu
+
+113
+00:13:38,000 --> 00:13:39,000
+RH: Oh oke kak
+
+114
+00:13:40,000 --> 00:13:43,000
+RH: Terima kasih kak untuk sarannya
+
+115
+00:13:44,000 --> 00:13:45,000
+FB: Oke
+
+116
+00:13:46,000 --> 00:13:55,000
+RH: Selanjutnya jika kakak diminta menilai untuk aplikasi ini dari skala satu sampai tujuh, kira - kira kakak ingin memberikan nilai berapa?
+
+117
+00:13:58,000 --> 00:14:00,000
+FB: Skala satu sampai tujuh ya
+
+118
+00:14:01,000 --> 00:14:06,000
+FB: Mungkin kakak bisa kasih nilai di lima koma tujuh
+
+119
+00:14:09,000 --> 00:14:20,000
+RH: Oke, jika kami ingin mendapat nilai tujuh nih misalnya, mungkin apa yang harus kami tambahkan atau ubah? apakah yang tadi kakak bilang itu?
+
+120
+00:14:20,000 --> 00:14:45,000
+FB: ya menambahkan fitur kayak menu masakannya. di sini kan linknya breakfast, lunch, dinner ini hanya ada satu link, mungkin ke depannya bisa dibuat kita yang download aplikasi ini bisa menambahkan link di setiap apa namanya.. breakfast, lunch dan dinner. dan tadi itu kayak menambahkan fitur memo jadi
+
+121
+00:14:46,000 --> 00:15:00,000
+FB: Saya misalnya menggunakan aplikasi ini yang tadi saya bilang saya bisa apa namanya, mencatat di memo itu senin saya masak apa, selasa masak apa, rabu masak apa, dan orang yang sama - sama mendownload aplikasi ini bisa melihat 
+
+122
+00:15:01,000 --> 00:15:02,000
+FB: Bisa melihat
+
+123
+00:15:04,000 --> 00:15:13,000
+FB: mencari inspirasi tidak hanya dari sini tapi dari berbagai orang yang mendownload aplikasi ini gitu. dan satu lagi mungkin ada fitur galeri ya.
+
+124
+00:15:14,000 --> 00:15:37,000
+FB: Fitur galeri yang untuk kalo orang kan ngeliat nih, orang - orang udah ngeliat menu di sini mungkin mereka akan recook mencoba memasaknya di rumah, mungkin bagus kalau ada fitur galeri itu menyediakan kalau orang itu udah recook bisa foto hasil masakannya, mereka bisa share yang bisa dilihat sama orang yang download aplikasi ini
+
+125
+00:15:38,000 --> 00:15:41,000
+FB:Dan mungkin orang - orang tersebut bisa kasih like atau komen
+
+126
+00:15:42,000 --> 00:15:49,000
+FB: Jadi apa ya... ada semangatnya orang - orang yang udah download aplikasi ini untuk
+
+127
+00:15:50,000 --> 00:16:01,000
+FB: ke depannya untuk coba mencoba lagi melihat menu - menu yang ada di sini, saling berbagi juga sama orang yang sama - sama mendownload aplikasi ini gitu
+
+128
+00:16:02,000 --> 00:16:07,000
+FB: Jadi biar lebih kayak hidup aja sih gitu
+
+129
+00:16:09,000 --> 00:16:14,000
+RH: Oke. Terima kasih kak untuk feedbacknya
+
+130
+00:16:15,000 --> 00:16:16,000
+FB: Oke sama - sama
+
+131
+00:16:18,000 --> 00:16:31,000
+RH: Sekian untuk agenda kita hari ini tadi udah wawancara dan udah testing juga. sekali lagi saya ingin mengucapkan terima kasih atas kesediaannya untuk menjadi responden dalam user research kali ini. selamat sore kak
+
+132
+00:16:31,000 --> 00:16:33,000
+FB: Iya, sore
